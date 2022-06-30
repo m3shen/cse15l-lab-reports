@@ -6,7 +6,7 @@
 ### Heading 3  
 #### Heading 4  
 
-[Link] (https://www.google.com)  
+[Link](https://www.google.com)  
 
 * item 1
 * item 2
